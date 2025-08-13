@@ -50,4 +50,6 @@ This guide has been provided solely for educational and informational purposes. 
 
 
 
-Update:  04 August 2025 link is functioning and active
+
+
+Update:  13.08.2025
